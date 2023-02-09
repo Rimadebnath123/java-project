@@ -5,7 +5,7 @@ public class Duplicate {
 	public static void main(String[]args) {
 		int n;
 	try (Scanner scan = new Scanner(System.in)) {
-		//Enter the word
+		//Enter the no of word
 		System.out.println("Enter the no of words:");
 		n=scan.nextInt();
 		String[]s=new String[n];
